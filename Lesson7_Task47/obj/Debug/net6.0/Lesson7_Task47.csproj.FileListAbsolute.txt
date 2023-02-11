@@ -1,0 +1,15 @@
+C:\Users\Илья\OneDrive\Рабочий стол\GB_Sem_Less7\Lesson7_Task47\bin\Debug\net6.0\Lesson7_Task47.exe
+C:\Users\Илья\OneDrive\Рабочий стол\GB_Sem_Less7\Lesson7_Task47\bin\Debug\net6.0\Lesson7_Task47.deps.json
+C:\Users\Илья\OneDrive\Рабочий стол\GB_Sem_Less7\Lesson7_Task47\bin\Debug\net6.0\Lesson7_Task47.runtimeconfig.json
+C:\Users\Илья\OneDrive\Рабочий стол\GB_Sem_Less7\Lesson7_Task47\bin\Debug\net6.0\Lesson7_Task47.dll
+C:\Users\Илья\OneDrive\Рабочий стол\GB_Sem_Less7\Lesson7_Task47\bin\Debug\net6.0\Lesson7_Task47.pdb
+C:\Users\Илья\OneDrive\Рабочий стол\GB_Sem_Less7\Lesson7_Task47\obj\Debug\net6.0\Lesson7_Task47.csproj.AssemblyReference.cache
+C:\Users\Илья\OneDrive\Рабочий стол\GB_Sem_Less7\Lesson7_Task47\obj\Debug\net6.0\Lesson7_Task47.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Илья\OneDrive\Рабочий стол\GB_Sem_Less7\Lesson7_Task47\obj\Debug\net6.0\Lesson7_Task47.AssemblyInfoInputs.cache
+C:\Users\Илья\OneDrive\Рабочий стол\GB_Sem_Less7\Lesson7_Task47\obj\Debug\net6.0\Lesson7_Task47.AssemblyInfo.cs
+C:\Users\Илья\OneDrive\Рабочий стол\GB_Sem_Less7\Lesson7_Task47\obj\Debug\net6.0\Lesson7_Task47.csproj.CoreCompileInputs.cache
+C:\Users\Илья\OneDrive\Рабочий стол\GB_Sem_Less7\Lesson7_Task47\obj\Debug\net6.0\Lesson7_Task47.dll
+C:\Users\Илья\OneDrive\Рабочий стол\GB_Sem_Less7\Lesson7_Task47\obj\Debug\net6.0\refint\Lesson7_Task47.dll
+C:\Users\Илья\OneDrive\Рабочий стол\GB_Sem_Less7\Lesson7_Task47\obj\Debug\net6.0\Lesson7_Task47.pdb
+C:\Users\Илья\OneDrive\Рабочий стол\GB_Sem_Less7\Lesson7_Task47\obj\Debug\net6.0\Lesson7_Task47.genruntimeconfig.cache
+C:\Users\Илья\OneDrive\Рабочий стол\GB_Sem_Less7\Lesson7_Task47\obj\Debug\net6.0\ref\Lesson7_Task47.dll

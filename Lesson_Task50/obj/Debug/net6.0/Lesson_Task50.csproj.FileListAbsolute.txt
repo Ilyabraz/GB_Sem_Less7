@@ -1,0 +1,15 @@
+C:\Users\Илья\OneDrive\Рабочий стол\GB_Sem_Less7\Lesson_Task50\bin\Debug\net6.0\Lesson_Task50.exe
+C:\Users\Илья\OneDrive\Рабочий стол\GB_Sem_Less7\Lesson_Task50\bin\Debug\net6.0\Lesson_Task50.deps.json
+C:\Users\Илья\OneDrive\Рабочий стол\GB_Sem_Less7\Lesson_Task50\bin\Debug\net6.0\Lesson_Task50.runtimeconfig.json
+C:\Users\Илья\OneDrive\Рабочий стол\GB_Sem_Less7\Lesson_Task50\bin\Debug\net6.0\Lesson_Task50.dll
+C:\Users\Илья\OneDrive\Рабочий стол\GB_Sem_Less7\Lesson_Task50\bin\Debug\net6.0\Lesson_Task50.pdb
+C:\Users\Илья\OneDrive\Рабочий стол\GB_Sem_Less7\Lesson_Task50\obj\Debug\net6.0\Lesson_Task50.csproj.AssemblyReference.cache
+C:\Users\Илья\OneDrive\Рабочий стол\GB_Sem_Less7\Lesson_Task50\obj\Debug\net6.0\Lesson_Task50.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Илья\OneDrive\Рабочий стол\GB_Sem_Less7\Lesson_Task50\obj\Debug\net6.0\Lesson_Task50.AssemblyInfoInputs.cache
+C:\Users\Илья\OneDrive\Рабочий стол\GB_Sem_Less7\Lesson_Task50\obj\Debug\net6.0\Lesson_Task50.AssemblyInfo.cs
+C:\Users\Илья\OneDrive\Рабочий стол\GB_Sem_Less7\Lesson_Task50\obj\Debug\net6.0\Lesson_Task50.csproj.CoreCompileInputs.cache
+C:\Users\Илья\OneDrive\Рабочий стол\GB_Sem_Less7\Lesson_Task50\obj\Debug\net6.0\Lesson_Task50.dll
+C:\Users\Илья\OneDrive\Рабочий стол\GB_Sem_Less7\Lesson_Task50\obj\Debug\net6.0\refint\Lesson_Task50.dll
+C:\Users\Илья\OneDrive\Рабочий стол\GB_Sem_Less7\Lesson_Task50\obj\Debug\net6.0\Lesson_Task50.pdb
+C:\Users\Илья\OneDrive\Рабочий стол\GB_Sem_Less7\Lesson_Task50\obj\Debug\net6.0\Lesson_Task50.genruntimeconfig.cache
+C:\Users\Илья\OneDrive\Рабочий стол\GB_Sem_Less7\Lesson_Task50\obj\Debug\net6.0\ref\Lesson_Task50.dll
